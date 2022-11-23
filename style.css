@@ -1,0 +1,146 @@
+header {
+background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5) ), url('assets/bg1.jpg');
+}
+
+/*
+header {
+    position: relative;
+    background: url(assets/bg1.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
+  
+  header:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 2;
+  }
+  
+  .inner {
+    position: relative;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+    padding: 50px;  
+  }
+
+header {
+    background-color: aquamarine;
+    font-size: 31px;
+    width: 38%;
+    text-align: center;
+}
+nav {
+    font-size: 30px;
+    background: #fc3;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+/* .footer_info {
+    width: 30%;
+    font-size: 30px;
+    background: rgb(139, 219, 186);
+    border: 2px solid black;
+} */
+
+/* .bg {
+    background-image: url(assets/bg1.jpg);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.bg:before {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.bg {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .bg:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 2;
+    }
+
+.about-info {
+    width: 30%;
+    font-size: 30px;
+    background: rgb(139, 219, 186);
+    border: 2px solid black;
+    margin:0 auto;
+    text-align: center;
+}
+
+.about-back {
+    width: 30%;
+    font-size: 30px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.main-page-hello {
+    width: 30%;
+    font-size: 30px;
+    background: rgb(139, 219, 186);
+    border: 2px solid black;
+    margin:0 auto;
+    text-align: center;
+}
+
+#My_Contacts {
+    font-size: 30px;
+    background: #fc3;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.main_page_My_Contacts {
+    width: 30%;
+    font-size: 30px;
+    background: rgb(139, 219, 186);
+    border: 2px solid black;
+    margin:0 auto;
+    text-align: center;
+}
+
+.Links_for_contact_with_me {
+    font-size: 30px;
+    background: #fc3;
+    border: 2px solid black;
+    padding: 20px;
+    margin:0 auto;
+    width: 28%;
+    text-align: center;
+}
+
+#Back_home {
+    width: 30%;
+    font-size: 30px;
+    margin:0 auto;
+    text-align: center;
+    background: #fc3;
+    border: 2px solid black;
+}  */
